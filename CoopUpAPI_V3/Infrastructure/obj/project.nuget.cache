@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M5jYk5B/hVBgYKdD7gBYc72pt2ITGTwsXXw5SVAw+LLX4602eapaXLBpQX0oquarS4ukNqNutuEmX8QF961J9A==",
+  "dgSpecHash": "O/Cd9MApawXG58DTT92b39mScknZJ5wXt6RJ5p5nWT+LeuPcGmSS/O0g8Qnkt/8YGlbArepA3M1xT197OXhhPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beran\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\beran\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

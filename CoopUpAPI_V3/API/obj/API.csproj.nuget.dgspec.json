@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\API\\API.csproj": {}
+    "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\API\\API.csproj": {
+    "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\API\\API.csproj",
+        "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\API\\API.csproj",
         "packagesPath": "C:\\Users\\beran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\API\\obj\\",
+        "outputPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\Application.csproj"
+              "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\Application.csproj"
               },
-              "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\Application.csproj": {
+    "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\Application.csproj",
+        "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\beran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\obj\\",
+        "outputPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,11 +111,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj"
+              "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Persistence\\Persistence.csproj"
+              "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Persistence\\Persistence.csproj": {
+                "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj": {
+    "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\beran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,14 +223,14 @@
         }
       }
     },
-    "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\beran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -246,8 +246,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Application\\Application.csproj"
+              "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Application\\Application.csproj"
               }
             }
           }
@@ -289,14 +289,14 @@
         }
       }
     },
-    "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\beran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -312,8 +312,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj"
+              "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj"
               }
             }
           }

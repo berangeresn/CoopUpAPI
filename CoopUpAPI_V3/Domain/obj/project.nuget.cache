@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/0iwfNBUBKm0Qe+rXpQ+RvS9qo24PP5T0ixX9Ko+s60EXspnOu2wBeO9o6bxxjGh6gr0hLIVBIvN6m5Iw7qEQ==",
+  "dgSpecHash": "/0hsA41GlT90t5JTPMPZ9HnixGp1yAHy1NJTJZP2oEiu+0aIE8oN4R3E6dOnohgzz3CPApMioRUapxgKHrKLlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.3\\microsoft.aspnetcore.cryptography.internal.3.1.3.nupkg.sha512",
     "C:\\Users\\beran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.3\\microsoft.aspnetcore.cryptography.keyderivation.3.1.3.nupkg.sha512",

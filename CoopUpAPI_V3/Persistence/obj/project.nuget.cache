@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hxc1xGeDHpyOmxxL7zDFc50iFOiAt9xDoFTY7HyxyMIRzRA3NJM//9uv2yqpLcLBme4GHybdS+QBHQwA+rT1vQ==",
+  "dgSpecHash": "N2hNw4JisNOWZn4mD08eIrdJOHmv7/8R1IhXWMLiPoMKi8gadxbB8vvIeyo4Eq9Gvqk2yAWTB8vmjGVcTb6shA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\beran\\Downloads\\CoopUpAPI-master\\CoopUpAPI_V3\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\Users\\beran\\CoopUpAPI_V3\\CoopUpAPI_V3\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beran\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\beran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.3\\microsoft.aspnetcore.cryptography.internal.3.1.3.nupkg.sha512",
