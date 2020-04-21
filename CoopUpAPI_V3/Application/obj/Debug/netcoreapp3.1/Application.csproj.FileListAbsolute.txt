@@ -26,3 +26,17 @@ C:\Users\beran\Downloads\CoopUpAPI-master\CoopUpAPI_V3\Application\obj\Debug\net
 C:\Users\beran\Downloads\CoopUpAPI-master\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
 C:\Users\beran\Downloads\CoopUpAPI-master\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.dll
 C:\Users\beran\Downloads\CoopUpAPI-master\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\beran\CoopUpAPI_V3\CoopUpAPI_V3\Application\obj\Debug\netcoreapp3.1\Application.pdb
